@@ -1,0 +1,11 @@
+[project]
+name = "druglike-abeta-antibodies"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+	"jupyter>=1.1.1",
+	"ngs @ git+https://github.com/Tessier-Lab-Umich/NGS.git",
+	"data_fitting @ git+https://github.com/Tessier-Lab-Umich/Data_Fitting.git",
+]
