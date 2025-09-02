@@ -22,3 +22,8 @@ uv pip install -r pyproject.toml
 ```
 
 The analyses and figure generation are located in `/notebooks/figures-x.ipynb`
+
+to start a jupter server to use the notebooks, run
+```
+jupyter lab
+``` 
